@@ -1,6 +1,6 @@
-# P-rexy API
+# Prexy API
 
-P-rexy API is a API application that provides access to over 20k HTTP, HTTPS, SOCKS4, and SOCKS5 proxies sourced from external providers. This API is useful for various web scraping, security, and anonymization tasks.
+Prexy API is a API application that provides access to over 20k HTTP, HTTPS, SOCKS4, and SOCKS5 proxies sourced from external providers. This API is useful for various web scraping, security, and anonymization tasks.
 
 ## Features
 
@@ -15,7 +15,7 @@ P-rexy API is a API application that provides access to over 20k HTTP, HTTPS, SO
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TraxDinosaur/P-rexy.git
+   git clone https://github.com/TraxDinosaur/Prexy.git
    ```
 
 2. Install dependencies:
